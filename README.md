@@ -107,7 +107,7 @@ The Linear Regression model was trained to estimate delivery time using delivery
 
 | Model | MAE | MSE | RMSE | R² Score |
 |---|---:|---:|---:|---:|
-| Linear Regression | — | — | — | — |
+| Linear Regression | 6.64 | 97.14 | 9.86 | 0.7704 |
 
 ### Evaluation Metrics
 
